@@ -21,7 +21,7 @@ This is necessary in order to enter text, among which the program will search fo
 
 # Program development algorithm:
 
-You need to write a function that takes 2 parameters, the first of type istream, the second - vector <string>, the result of the function should be map <string, MyClass>, containing a string (string) and an object of its own type, containing the following fields:
+You need to write a function that takes 2 parameters, the first of type istream, the second - vector <string> , the result of the function should be map <string, MyClass>, containing a string (string) and an object of its own type, containing the following fields:
   - the number of occurrences of string in istream;
   - vector <string>, which stores all lines with the occurrence of the desired string.
  
